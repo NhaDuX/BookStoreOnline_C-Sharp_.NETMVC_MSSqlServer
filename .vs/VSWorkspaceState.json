@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStoreOnline",
+    "\\BookStoreOnline\\App_Start",
+    "\\BookStoreOnline\\Models",
+    "\\BookStoreOnline\\Views",
+    "\\BookStoreOnline\\Views\\Cart",
+    "\\BookStoreOnline\\Views\\Category",
+    "\\BookStoreOnline\\Views\\Home",
+    "\\BookStoreOnline\\Views\\Shared"
+  ],
+  "SelectedNode": "\\BookStoreOnline\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
