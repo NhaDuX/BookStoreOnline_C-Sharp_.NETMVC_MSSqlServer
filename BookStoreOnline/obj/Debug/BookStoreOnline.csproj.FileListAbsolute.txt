@@ -1,0 +1,516 @@
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll.config
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.pdb
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.pdb
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\BookStoreOnline\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.xml
+F:\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll.config
+F:\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll
+F:\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.pdb
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe.config
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.rsp
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe.config
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.rsp
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Managed.Core.targets
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.AppContext.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Collections.Immutable.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Console.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Globalization.Calendars.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Http.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Sockets.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Reflection.Metadata.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.ValueTuple.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XmlDocument.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe.config
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.rsp
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe
+F:\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe.config
+F:\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.dll
+F:\BookStoreOnline\BookStoreOnline\bin\EntityFramework.dll
+F:\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.dll
+F:\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BookStoreOnline\BookStoreOnline\bin\Microsoft.Web.Infrastructure.dll
+F:\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.dll
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.dll
+F:\BookStoreOnline\BookStoreOnline\bin\WebGrease.dll
+F:\BookStoreOnline\BookStoreOnline\bin\EntityFramework.xml
+F:\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.xml
+F:\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.xml
+F:\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.xml
+F:\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.pdb
+F:\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.AssemblyReference.cache
+F:\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CoreCompileInputs.cache
+F:\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CopyComplete
+F:\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.dll
+F:\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.pdb
+F:\BookStoreOnline\BookStoreOnline\bin\PagedList.dll
+F:\BookStoreOnline\BookStoreOnline\bin\PagedList.Mvc.dll
+F:\BookStoreOnline\BookStoreOnline\bin\PagedList.xml
+F:\BookStoreOnline\BookStoreOnline\bin\PagedList.Mvc.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll.config
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.pdb
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe.config
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.rsp
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe.config
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.rsp
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.AppContext.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Console.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Http.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Sockets.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.ValueTuple.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe.config
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.rsp
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\EntityFramework.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\PagedList.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\PagedList.Mvc.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\WebGrease.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\EntityFramework.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\PagedList.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\PagedList.Mvc.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.pdb
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.AssemblyReference.cache
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CoreCompileInputs.cache
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CopyComplete
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.dll
+D:\CNPM THHH\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.pdb
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll.config
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\BookStoreOnline.pdb
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\PagedList.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\WebGrease.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\PagedList.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.dll
+C:\Users\DELL\Downloads\BookStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.pdb
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PhoneStoreOnline.dll.config
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PhoneStoreOnline.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PhoneStoreOnline.pdb
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PagedList.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\WebGrease.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PagedList.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\obj\Debug\PhoneStoreOnline.dll
+C:\Users\DELL\Downloads\PhoneStoreOnline\BookStoreOnline\obj\Debug\PhoneStoreOnline.pdb
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PhoneStoreOnline.dll.config
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PhoneStoreOnline.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PhoneStoreOnline.pdb
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csc.exe
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csc.exe.config
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csc.rsp
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csi.exe
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csi.exe.config
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\csi.rsp
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.AppContext.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Console.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\vbc.exe.config
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\vbc.rsp
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PagedList.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PagedList.Mvc.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Helpers.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Mvc.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Optimization.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Razor.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\WebGrease.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PagedList.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\PagedList.Mvc.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Helpers.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Mvc.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Optimization.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.Razor.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Newtonsoft.Json.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Antlr3.Runtime.pdb
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.AssemblyReference.cache
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CoreCompileInputs.cache
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\obj\Debug\BookStoreOnline.csproj.CopyComplete
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\obj\Debug\PhoneStoreOnline.dll
+C:\Users\phucu\Downloads\Compressed\PhoneBackup\PhoneStoreOnline\BookStoreOnline\obj\Debug\PhoneStoreOnline.pdb
